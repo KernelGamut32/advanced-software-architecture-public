@@ -1,0 +1,5 @@
+# LAB 07
+
+Using the language of your choice and https://www.gutenberg.org/files/11/11-0.txt, copy the text file contents (“Alice’s Adventure in Wonderland”) and save to a text file on your local system. Parse through the text, counting the number of times “Alice”, “Mad Hatter”, “Rabbit”, “Caterpillar” and “March hare” appear (you can use something like a dictionary to store the results). Print a summary of the final counts. Make sure you handle different casing (i.e. “Rabbit” and “rabbit” should both count as occurrences of “Rabbit” in the text).
+
+Create a class that processes the word count (accepting an input string) and executes the parse, word counting, and case handling logic. Use TDD to write unit tests against the word counting class only, including all of the cases outlined in the requirements above.
